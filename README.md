@@ -17,11 +17,11 @@ To replicate the project setup, you will need the following software and tools:
 
 1. Open MySQL client.
 2. Create a new database named `database_assignment`.
-3. Execute the SQL queries from the `database_assignment.sql` file to create the `customers` table, insert data, and perform various data retrieval operations.
+3. Execute the SQL queries from the `database_assignment.sql` And create the `customers` table, insert data, and perform various data retrieval operations.
 
 ## Usage
 
-The SQL queries in the `database_assignment.sql` file cover the following tasks:
+The SQL queries in the `database_assignment.sql` cover the following tasks:
 
 - Creating a database and a table.
 - Inserting customer data into the table.
